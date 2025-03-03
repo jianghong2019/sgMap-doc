@@ -46,7 +46,7 @@ export default defineConfig((mode) => {
       ],
 
       socialLinks: [
-        { icon: 'github', link: 'https://github.com/jianghong2019/sgMap-doc' }
+        { icon: 'github', link: 'https://github.com/jianghong2019/sgMap-demo/tree/dev' }
       ]
     }
   }
