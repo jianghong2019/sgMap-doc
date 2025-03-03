@@ -126,6 +126,6 @@ export const useVectorLayer = (map) => {
 ````
 
 ## 视频演示
-<video width="320" height="240" controls>
+<video width="300" height="200" controls>
   <source src="../images/demo-1.mp4" type="video/mp4">
 </video>
