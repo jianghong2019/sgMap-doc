@@ -28,3 +28,5 @@
 
 :::
 ![此处为官方文档中关于图层操作的截图](./images/api-5.png)  
+
+[推荐使用一个地理空间分析的JavaScript库（turf.js）](https://turfjs.org/)  

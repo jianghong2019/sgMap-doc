@@ -25,7 +25,8 @@ export default defineConfig((mode) => {
             { text: '初始化及默认数据设置', link: '/Initialization/initialization.md' },
             { text: '矢量图层', link: '/Initialization/vectorLayer.md' },
             { text: '聚类图层', link: '/Initialization/clusterLayer.md' },
-            { text: '背景图层', link: '/Initialization/bgLayer.md' }
+            { text: '背景图层', link: '/Initialization/bgLayer.md' },
+            { text: '样式', link: '/Initialization/style.md' }
           ]
         },
         {
