@@ -39,7 +39,7 @@ export default defineConfig((mode) => {
         {
           text: '交互事件',
           items: [
-            { text: '点击事件', link: '/Operation/clickEvent' },
+            { text: '鼠标事件', link: '/Operation/clickEvent' },
             { text: '缩放、视角、定位等', link: '/Operation/other' }
           ]
         }
